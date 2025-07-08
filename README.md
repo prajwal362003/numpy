@@ -34,10 +34,3 @@ The notebook includes examples and explanations on:
 - ✅ Useful tips and tricks for data manipulation
 
 ---
-
-## 🚀 Getting Started
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/prajwal362003/numpy.git
-cd numpy
